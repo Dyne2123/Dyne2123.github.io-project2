@@ -6,8 +6,8 @@ body{
     background-size: cover;
 }
 #image{
-    margin-left: 26%;
-    margin-top: 10%;
+    padding-left: 26%;
+    padding-top: 10%;
     
 }
 #image img{
