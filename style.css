@@ -6,8 +6,9 @@ body{
     background-size: cover;
 }
 #image{
-    padding-left: 200px;
-    padding-top: 100px;
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
     
 }
 #image img{
@@ -17,6 +18,11 @@ body{
 }
 h3{
     color: white;
-    margin-left: 28%;
     filter: drop-shadow(black 5px 5px 3px);
+    display: flex;
+    justify-content: center;
+}
+.buttons{
+    display: grid;
+    justify-content: center;
 }
