@@ -1,6 +1,6 @@
 body{
     height: 100vh;
-    width: 100vw;
+    width: 90vw;
     background-image: url("images/background.jpg");
     background-repeat: no-repeat;
     background-size: cover;
@@ -25,4 +25,18 @@ h3{
 .buttons{
     display: grid;
     justify-content: center;
+    
+}
+
+#bu {
+
+    width: 150px ;
+    height: 50px;
+    font-weight: bold;
+    border-radius: 20px;
+}
+
+
+.buttons #bu{
+    background-color: lightblue;
 }
